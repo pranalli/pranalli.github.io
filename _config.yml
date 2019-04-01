@@ -25,3 +25,4 @@ defaults:
     layout: page
 permalink: pretty
 site.name: My Digital Handyman
+site.author: Pasquale Ranalli
